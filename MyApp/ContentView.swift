@@ -14,7 +14,7 @@ struct ContentView: View {
                     .font(.title2)
                     .fontWeight(.semibold)
                     .padding()
-                
+                Text("Leen")
                 
             }
             .frame(maxWidth: .infinity, alignment: .center)
